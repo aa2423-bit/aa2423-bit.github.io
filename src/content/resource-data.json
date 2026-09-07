@@ -1,0 +1,260 @@
+[
+  {
+    "id": "bamboo-tea-pdf",
+    "project": "bamboo-tea",
+    "label": "竹峰茗茶成果簡報 · 公開節選版",
+    "type": "PDF",
+    "url": "resources/bamboo-tea/presentation-public-excerpt.pdf"
+  },
+  {
+    "id": "happ-pdf",
+    "project": "happ",
+    "label": "Happ. 小樹屋課程報告 · 公開節選版",
+    "type": "PDF",
+    "url": "resources/happ/presentation-public-excerpt.pdf"
+  },
+  {
+    "id": "railway-pdf",
+    "project": "railway",
+    "label": "台鐵組織發展簡報 · PDF",
+    "type": "PDF",
+    "url": "resources/railway/presentation.pdf"
+  },
+  {
+    "id": "curation-pdf",
+    "project": "curation",
+    "label": "酒酒不能自己策展提案 · PDF",
+    "type": "PDF",
+    "url": "resources/curation/presentation.pdf"
+  },
+  {
+    "id": "external-0",
+    "project": "terra",
+    "label": "Terra 團隊商業模式 · Canva",
+    "type": "Canva",
+    "url": "https://www.canva.com/design/DAGBRj0YI6E/qAt5c7pY5z6W04WcGvWXXQ/view",
+    "external": true
+  },
+  {
+    "id": "external-1",
+    "project": "happ",
+    "label": "成果簡報",
+    "type": "Canva",
+    "url": "https://canva.link/hj4yqtiw6jkyuro",
+    "external": true
+  },
+  {
+    "id": "external-2",
+    "project": "bamboo-tea",
+    "label": "紀錄影片",
+    "type": "YouTube",
+    "url": "https://youtu.be/Q8DR_bYt5-w?si=ZKikMfIs_fTe2RFF",
+    "external": true
+  },
+  {
+    "id": "external-3",
+    "project": "bamboo-tea",
+    "label": "公開報導 · 第三屆社企永續聚落",
+    "type": "Official News",
+    "url": "https://www.fju.edu.tw/focusDetail.jsp?focusID=2501&focusClassID=3",
+    "external": true
+  },
+  {
+    "id": "external-4",
+    "project": "sel",
+    "label": "SEL 教材與教學影片",
+    "type": "Drive",
+    "url": "https://drive.google.com/drive/folders/1thVMU9NoNtkW0m7GrK2r9ryCPSNfScEP?usp=sharing",
+    "external": true
+  },
+  {
+    "id": "external-5",
+    "project": "sel",
+    "label": "培訓紀錄 · EQ 即戰力",
+    "type": "Official News",
+    "url": "https://rural-caring.fju.edu.tw/blog/page/4724/",
+    "external": true
+  },
+  {
+    "id": "external-6",
+    "project": "finance",
+    "label": "觀看影片 · 台積電赴美設廠",
+    "type": "YouTube",
+    "url": "https://youtu.be/jYj7EphpX08",
+    "external": true
+  },
+  {
+    "id": "external-8",
+    "project": "future2035",
+    "label": "競賽成果簡報",
+    "type": "Canva",
+    "url": "https://canva.link/judrgw4jvlkgtxc",
+    "external": true
+  },
+  {
+    "id": "external-9",
+    "project": "leadership",
+    "label": "活動報導 · 聖誕共融",
+    "type": "Official News",
+    "url": "https://www.fju.edu.tw/focusDetail.jsp?focusID=2543&focusClassID=2",
+    "external": true
+  },
+  {
+    "id": "v1-extra-1",
+    "project": "community",
+    "label": "期初教育訓練簡報",
+    "type": "Canva",
+    "url": "https://canva.link/2dslveah32qm30x",
+    "external": true
+  },
+  {
+    "id": "v1-extra-2",
+    "project": "camps2026",
+    "label": "2026 伴您好讀 · 官方紀錄",
+    "type": "Official News",
+    "url": "https://rural-caring.fju.edu.tw/blog/page/4128/",
+    "external": true
+  },
+  {
+    "id": "v1-extra-4",
+    "project": "training114",
+    "label": "114-1 核心培訓 · 官方紀錄",
+    "type": "Official News",
+    "url": "https://rural-caring.fju.edu.tw/blog/page/3865/",
+    "external": true
+  },
+  {
+    "id": "familymart-v3-certificate",
+    "project": "familymart",
+    "label": "全家便利商店高階技能檢定合格證書",
+    "type": "PDF",
+    "url": "resources/familymart/v3-certificate.pdf"
+  },
+  {
+    "id": "terra-v3-full",
+    "project": "terra",
+    "label": "開啟完整 Terra 招募 PDF",
+    "type": "PDF",
+    "url": "resources/terra/v3-full.pdf"
+  },
+  {
+    "id": "smart-retail-v3-full",
+    "project": "smart-retail",
+    "label": "開啟智慧零售 PDF",
+    "type": "PDF",
+    "url": "resources/smart-retail/v3-full.pdf"
+  },
+  {
+    "id": "capstone-v3-report",
+    "project": "capstone",
+    "label": "開啟正式報告 PDF",
+    "type": "PDF",
+    "url": "resources/capstone/v3-report.pdf"
+  },
+  {
+    "id": "future2035-v3-certificate",
+    "project": "future2035",
+    "label": "2035 青年人生活情境競賽銀質獎獎狀",
+    "type": "PDF",
+    "url": "resources/future2035/v3-certificate.pdf"
+  },
+  {
+    "id": "v3-external-2",
+    "project": "leadership",
+    "label": "查看活動紀錄",
+    "type": "External",
+    "url": "https://reurl.cc/jQlMG2",
+    "external": true
+  },
+  {
+    "id": "v3-external-3",
+    "project": "leadership",
+    "label": "查看 Google Drive",
+    "type": "External",
+    "url": "https://drive.google.com/file/d/1-8N7UBszjqS5QOlfbQyETRdUCYh6PLrf/view",
+    "external": true
+  },
+  {
+    "id": "v3-external-4",
+    "project": "camps2026",
+    "label": "觀看影片",
+    "type": "External",
+    "url": "https://youtu.be/UJiVWF_gDvQ?si=uHzIHgSWdBI-7eZV",
+    "external": true
+  },
+  {
+    "id": "v3-external-5",
+    "project": "training114",
+    "label": "觀看培訓紀錄短片",
+    "type": "External",
+    "url": "https://www.instagram.com/reel/DP8mSgsktPY/?utm_source=ig_web_copy_link&igsi=MzRlODBiNWFlZA==",
+    "external": true
+  },
+  {
+    "id": "hr31-0",
+    "project": "hrfriday",
+    "label": "開啟上半年學習簡報",
+    "type": "Canva",
+    "url": "https://www.canva.com/design/DAHC3wjkuD0/IMYqzAMHWW2Ndbs0VEguTA/view",
+    "external": true
+  },
+  {
+    "id": "hr31-1",
+    "project": "hrfriday",
+    "label": "開啟下半年學習簡報",
+    "type": "Canva",
+    "url": "https://www.canva.com/design/DAHR-7Yp_OY/IBrGzfndS4j8aO1YwtAazw/edit?",
+    "external": true
+  },
+  {
+    "id": "hota-company31",
+    "project": "hota",
+    "label": "和運租車 LinkedIn",
+    "type": "Website",
+    "url": "https://www.linkedin.com/company/111831357/",
+    "external": true
+  },
+  {
+    "id": "psychology-reflection31",
+    "project": "psychology",
+    "label": "開啟課程心得 PDF（公開文字版）",
+    "type": "PDF",
+    "url": "resources/psychology/reflection-public.pdf"
+  },
+  {
+    "id": "labor-reflection31",
+    "project": "labor",
+    "label": "開啟課程心得 PDF（公開文字版）",
+    "type": "PDF",
+    "url": "resources/labor/reflection-public.pdf"
+  },
+  {
+    "id": "capstone-presentation",
+    "project": "capstone",
+    "label": "畢業專題成果簡報",
+    "type": "PDF",
+    "url": "media/v4/capstone-presentation.pdf"
+  },
+  {
+    "id": "japan-presentation",
+    "project": "japan",
+    "label": "日本旅遊與住宿資料分析成果簡報",
+    "type": "PDF",
+    "url": "media/v4/japan-presentation.pdf"
+  },
+  {
+    "id": "hr-tech-reflection",
+    "project": "hrfriday",
+    "label": "科技人資先修班心得分享",
+    "type": "Website",
+    "url": "https://lnkd.in/p/gCm3KRXR",
+    "external": true
+  },
+  {
+    "id": "transcript-v4",
+    "project": "academic",
+    "label": "Transcript｜歷年成績單",
+    "type": "PDF",
+    "url": "media/v4/transcript.pdf"
+  }
+]

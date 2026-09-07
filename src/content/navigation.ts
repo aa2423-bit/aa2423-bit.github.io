@@ -1,0 +1,1 @@
+export const navigation=[['/','Home'],['/about','About'],['/projects','Projects'],['/experience','Experience'],['/learning','Learning'],['/leadership','Leadership'],['/competitions','Competitions'],['/capstone','Capstone'],['/resume','Resume'],['/contact','Contact']] as const;

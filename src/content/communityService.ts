@@ -1,0 +1,1 @@
+export const community={title:'Education & Community Service',subtitle:'偏鄉教育與志工服務',intro:'在帶班、學伴支持與教育訓練中，練習理解需求，也把理解轉化為能夠回應現場的行動。',items:[{title:'帶班與學伴支持',text:'支持學伴與教學現場，協助問題回應與現場溝通。'},{title:'師長與現場溝通',text:'理解不同角色的期待，以同理心回應需求並處理現場異常。'},{title:'招募與教育訓練',text:'參與招募及訓練；SEL 教材設計另作 Featured L&D Project，呈現兩學期的真實內容製作。'}]};

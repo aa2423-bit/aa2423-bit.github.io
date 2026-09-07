@@ -1,0 +1,230 @@
+{
+  "portrait": {
+    "section": "PROFESSIONAL SUMMARY",
+    "source": "images/v3-portrait.webp",
+    "asset": "images/v3-portrait.webp",
+    "dimensions": [
+      400,
+      558
+    ],
+    "crop": "4 / 5",
+    "position": "50% 30%",
+    "fit": "contain"
+  },
+  "hota": {
+    "section": "WORK EXPERIENCE",
+    "source": "images/v3-hota.webp",
+    "asset": "images/v3-hota.webp",
+    "dimensions": [
+      2180,
+      463
+    ],
+    "crop": "3 / 1",
+    "position": "50% 50%",
+    "fit": "contain"
+  },
+  "community": {
+    "section": "WORK EXPERIENCE",
+    "source": "images/v3-community.webp",
+    "asset": "images/v3-community.webp",
+    "dimensions": [
+      1358,
+      1202
+    ],
+    "crop": "4 / 5",
+    "position": "50% 15%",
+    "fit": "contain"
+  },
+  "hrfriday": {
+    "section": "WORK EXPERIENCE",
+    "source": "images/v3-hrfriday.webp",
+    "asset": "images/v3-hrfriday.webp",
+    "dimensions": [
+      500,
+      500
+    ],
+    "crop": "1 / 1",
+    "position": "50% 50%",
+    "fit": "contain"
+  },
+  "future2035": {
+    "section": "SELECTED AWARDS",
+    "source": "images/v3-future2035.webp",
+    "asset": "images/v3-future2035.webp",
+    "dimensions": [
+      1108,
+      1477
+    ],
+    "crop": "16 / 10",
+    "position": "50% 35%",
+    "fit": "contain"
+  },
+  "japan": {
+    "section": "SELECTED AWARDS",
+    "source": "images/v3-japan.webp",
+    "asset": "images/v3-japan.webp",
+    "dimensions": [
+      2048,
+      1536
+    ],
+    "crop": "16 / 10",
+    "position": "50% 35%",
+    "fit": "contain"
+  },
+  "capstone": {
+    "section": "CAPSTONE RESEARCH",
+    "source": "images/v3-capstone.webp",
+    "asset": "images/v3-capstone.webp",
+    "dimensions": [
+      4032,
+      3024
+    ],
+    "crop": "16 / 10",
+    "position": "50% 35%",
+    "fit": "contain"
+  },
+  "terra": {
+    "section": "SELECTED COURSEWORK",
+    "source": "images/v3-terra.webp",
+    "asset": "images/v3-terra.webp",
+    "dimensions": [
+      1500,
+      844
+    ],
+    "crop": "16 / 10",
+    "position": "50% 0%",
+    "fit": "contain"
+  },
+  "smart-retail": {
+    "section": "SELECTED COURSEWORK",
+    "source": "images/v3-smart-retail.webp",
+    "asset": "images/v3-smart-retail.webp",
+    "dimensions": [
+      1500,
+      844
+    ],
+    "crop": "16 / 10",
+    "position": "50% 0%",
+    "fit": "contain"
+  },
+  "bamboo-tea": {
+    "section": "SELECTED COURSEWORK",
+    "source": "images/v3-bamboo-tea.webp",
+    "asset": "images/v3-bamboo-tea.webp",
+    "dimensions": [
+      1477,
+      1108
+    ],
+    "crop": "16 / 10",
+    "position": "50% 35%",
+    "fit": "contain"
+  },
+  "residence": {
+    "section": "EXTRACURRICULAR ACTIVITIES",
+    "source": "images/v3-residence.webp",
+    "asset": "images/v3-residence.webp",
+    "dimensions": [
+      1477,
+      1108
+    ],
+    "crop": "16 / 10",
+    "position": "50% 30%",
+    "fit": "contain"
+  },
+  "camps2026": {
+    "section": "EXTRACURRICULAR ACTIVITIES",
+    "source": "images/v3-camps2026.webp",
+    "asset": "images/v3-camps2026.webp",
+    "dimensions": [
+      1477,
+      1108
+    ],
+    "crop": "16 / 10",
+    "position": "50% 40%",
+    "fit": "contain"
+  },
+  "camps2024": {
+    "section": "EXTRACURRICULAR ACTIVITIES",
+    "source": "images/v3-camps2024.webp",
+    "asset": "images/v3-camps2024.webp",
+    "dimensions": [
+      4032,
+      3024
+    ],
+    "crop": "16 / 10",
+    "position": "50% 40%",
+    "fit": "contain"
+  },
+  "framework": {
+    "section": "DETAIL / CAPSTONE",
+    "source": "images/v3-framework.webp",
+    "asset": "images/v3-framework.webp",
+    "dimensions": [
+      1667,
+      935
+    ],
+    "crop": "auto",
+    "position": "50% 0%",
+    "fit": "contain"
+  },
+  "award-certificate": {
+    "section": "DETAIL / AWARD",
+    "source": "images/v3-award-certificate.webp",
+    "asset": "images/v3-award-certificate.webp",
+    "dimensions": [
+      1060,
+      1545
+    ],
+    "crop": "auto",
+    "position": "50% 0%",
+    "fit": "contain"
+  },
+  "residence-group": {
+    "section": "DETAIL / RESIDENCE",
+    "source": "images/v3-residence-group.webp",
+    "asset": "images/v3-residence-group.webp",
+    "dimensions": [
+      1430,
+      954
+    ],
+    "crop": "auto",
+    "position": "50% 35%",
+    "fit": "contain"
+  },
+  "residence-exchange": {
+    "section": "DETAIL / RESIDENCE",
+    "source": "images/v3-residence-exchange.webp",
+    "asset": "images/v3-residence-exchange.webp",
+    "dimensions": [
+      1706,
+      960
+    ],
+    "crop": "auto",
+    "position": "50% 35%",
+    "fit": "contain"
+  },
+  "community-team": {
+    "section": "DETAIL / COMMUNITY",
+    "source": "images/v3-community-team.webp",
+    "asset": "images/v3-community-team.webp",
+    "dimensions": [
+      1567,
+      1044
+    ],
+    "crop": "auto",
+    "position": "50% 35%",
+    "fit": "contain"
+  },
+  "community-training": {
+    "section": "DETAIL / COMMUNITY",
+    "source": "images/v3-community-training.webp",
+    "asset": "images/v3-community-training.webp",
+    "dimensions": [
+      1477,
+      1108
+    ],
+    "crop": "auto",
+    "position": "50% 35%",
+    "fit": "contain"
+  }
+}

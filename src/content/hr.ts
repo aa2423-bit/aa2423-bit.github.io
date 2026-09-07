@@ -1,0 +1,1 @@
+export const hr={title:'HRFriday Learning Journey',intro:'在系統化人資學習中建立觀點，再把學到的流程與方法帶進真實招募專案。',role:'第五屆高潛學員／第六屆高潛學員招募計畫副召集人',contributions:['招募專案規劃、時程與任務分工','對外招募訊息與社群窗口','面試題目與評估機制','履歷篩選、面試安排與現場執行','跨組協作'],funnel:[{value:'41',label:'Applications'},{value:'20',label:'Interviews'},{value:'12',label:'Selected'}],learning:['招募與選才','訓練發展與 IDP','勞動法規與員工關係','科技人資與 AI 的學習探索']};

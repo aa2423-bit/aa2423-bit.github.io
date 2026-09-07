@@ -1,0 +1,534 @@
+[
+  {
+    "id": "future-minister",
+    "url": "media/v4/future-minister.jpg",
+    "title": "2035 競賽頒獎合影",
+    "type": "image",
+    "section": "future2035"
+  },
+  {
+    "id": "446ba5e86d68",
+    "url": "media/446ba5e86d68.webp",
+    "title": "0B404CF4-3BDB-4ABE-ADD6-17653A90485B",
+    "type": "image",
+    "section": "hrfriday"
+  },
+  {
+    "id": "91289ddc8923",
+    "url": "media/91289ddc8923.webp",
+    "title": "偏鄉2",
+    "type": "image",
+    "section": "community"
+  },
+  {
+    "id": "bd2095134d8a",
+    "url": "media/bd2095134d8a.webp",
+    "title": "成績單去背板",
+    "type": "image",
+    "section": "academic"
+  },
+  {
+    "id": "ca574ae25b67",
+    "url": "media/ca574ae25b67.webp",
+    "title": "專業照2",
+    "type": "image",
+    "section": "hero"
+  },
+  {
+    "id": "926fb5726d87",
+    "url": "media/926fb5726d87.webp",
+    "title": "1F1EA36D-6EDF-411D-AF0A-BBC5A2F142FF",
+    "type": "image",
+    "section": "hrfriday"
+  },
+  {
+    "id": "507c3f375f87",
+    "url": "media/507c3f375f87.webp",
+    "title": "偏鄉上課",
+    "type": "image",
+    "section": "community"
+  },
+  {
+    "id": "ebe2e1ea6e9e",
+    "url": "media/ebe2e1ea6e9e.webp",
+    "title": "首頁封面大頭照",
+    "type": "image",
+    "section": "hero"
+  },
+  {
+    "id": "6b51f3bc2733",
+    "url": "media/6b51f3bc2733.webp",
+    "title": "LINE_ALBUM_五月實體月會_260811_1",
+    "type": "image",
+    "section": "hrfriday"
+  },
+  {
+    "id": "23ca6433ad36",
+    "url": "media/23ca6433ad36.webp",
+    "title": "所有帶班+主任",
+    "type": "image",
+    "section": "community"
+  },
+  {
+    "id": "b2809bcb78ac",
+    "url": "media/b2809bcb78ac.webp",
+    "title": "偏鄉中心",
+    "type": "image",
+    "section": "hero"
+  },
+  {
+    "id": "b98cef0fced9",
+    "url": "media/b98cef0fced9.webp",
+    "title": "S__218873858",
+    "type": "image",
+    "section": "hrfriday"
+  },
+  {
+    "id": "1cfde07c3482",
+    "url": "media/1cfde07c3482.webp",
+    "title": "講座培訓",
+    "type": "image",
+    "section": "community"
+  },
+  {
+    "id": "4e1819b6f3d4",
+    "url": "media/4e1819b6f3d4.pdf",
+    "title": "2024 莿桐夏日學堂服務狀",
+    "type": "pdf",
+    "section": "honors",
+    "issuer": "輔仁大學台灣偏鄉教育關懷中心",
+    "year": "2024",
+    "result": "服務 40 小時",
+    "project": "/activities/camps2024",
+    "preview": "media/4e1819b6f3d4-preview.jpg"
+  },
+  {
+    "id": "6eca9bee687f",
+    "url": "media/6eca9bee687f.pdf",
+    "title": "管理學院學生學術獎章",
+    "type": "pdf",
+    "section": "honors",
+    "issuer": "輔仁大學管理學院",
+    "year": "2024",
+    "result": "學生學術獎章",
+    "project": "/awards/future2035",
+    "preview": "media/6eca9bee687f-preview.jpg"
+  },
+  {
+    "id": "b5067cb96456",
+    "url": "media/b5067cb96456.pdf",
+    "title": "113 學年度宜真宜善學苑優秀幹部獎狀",
+    "type": "pdf",
+    "section": "honors",
+    "issuer": "輔仁大學",
+    "year": "2025",
+    "result": "優秀幹部",
+    "project": "/leadership/residence",
+    "preview": "media/b5067cb96456-preview.jpg"
+  },
+  {
+    "id": "1499b09da011",
+    "url": "media/1499b09da011.pdf",
+    "title": "113 學年度宿舍代表服務獎狀",
+    "type": "pdf",
+    "section": "honors",
+    "issuer": "輔仁大學",
+    "year": "2025",
+    "result": "服務表現優良",
+    "project": "/leadership/residence",
+    "preview": "media/1499b09da011-preview.jpg"
+  },
+  {
+    "id": "cdc67d5b64cd",
+    "url": "media/cdc67d5b64cd.pdf",
+    "title": "線上伴讀帶班老師感謝狀與教育訓練講師感謝函",
+    "type": "pdf",
+    "section": "honors",
+    "issuer": "輔仁大學台灣偏鄉教育關懷中心",
+    "year": "2024–2025",
+    "result": "帶班服務與講師",
+    "project": "/experience/community",
+    "preview": "media/cdc67d5b64cd-preview.jpg"
+  },
+  {
+    "id": "6109d573068e",
+    "url": "media/6109d573068e.pdf",
+    "title": "2026 聯合相見歡與 2024 聯合相見歡服務狀",
+    "type": "pdf",
+    "section": "honors",
+    "issuer": "輔仁大學台灣偏鄉教育關懷中心",
+    "year": "2024／2026",
+    "result": "服務 20／44 小時",
+    "project": "/activities/camps2026",
+    "preview": "media/6109d573068e-preview.jpg"
+  },
+  {
+    "id": "asset-portrait",
+    "url": "images/v3-portrait.webp",
+    "title": "Anna 彭淑萍",
+    "type": "image",
+    "section": "asset-portrait"
+  },
+  {
+    "id": "asset-hota",
+    "url": "images/v3-hota.webp",
+    "title": "和運租車logo (1)",
+    "type": "image",
+    "section": "asset-hota"
+  },
+  {
+    "id": "asset-community",
+    "url": "images/v3-community.webp",
+    "title": "中華電信ESG_直式",
+    "type": "image",
+    "section": "asset-community"
+  },
+  {
+    "id": "asset-hrfriday",
+    "url": "images/v3-hrfriday.webp",
+    "title": "channels4_profile-removebg-preview",
+    "type": "image",
+    "section": "asset-hrfriday"
+  },
+  {
+    "id": "asset-future2035",
+    "url": "images/v3-future2035.webp",
+    "title": "競賽2",
+    "type": "image",
+    "section": "asset-future2035"
+  },
+  {
+    "id": "asset-japan",
+    "url": "images/v3-japan.webp",
+    "title": "大數據照片圖",
+    "type": "image",
+    "section": "asset-japan"
+  },
+  {
+    "id": "asset-terra",
+    "url": "images/v3-terra.webp",
+    "title": "Terra招募",
+    "type": "image",
+    "section": "asset-terra"
+  },
+  {
+    "id": "asset-smart-retail",
+    "url": "images/v3-smart-retail.webp",
+    "title": "產業研討_智慧零售",
+    "type": "image",
+    "section": "asset-smart-retail"
+  },
+  {
+    "id": "asset-bamboo-tea",
+    "url": "images/v3-bamboo-tea.webp",
+    "title": "永續聚落-首圖重要",
+    "type": "image",
+    "section": "asset-bamboo-tea"
+  },
+  {
+    "id": "asset-residence",
+    "url": "images/v3-residence.webp",
+    "title": "新生說明會自我介紹-苑代表",
+    "type": "image",
+    "section": "asset-residence"
+  },
+  {
+    "id": "asset-camps2026",
+    "url": "images/v3-camps2026.webp",
+    "title": "國小組",
+    "type": "image",
+    "section": "asset-camps2026"
+  },
+  {
+    "id": "asset-camps2024",
+    "url": "images/v3-camps2024.webp",
+    "title": "書屋合照",
+    "type": "image",
+    "section": "asset-camps2024"
+  },
+  {
+    "id": "asset-award-certificate",
+    "url": "images/v3-award-certificate.webp",
+    "title": "獎狀證明",
+    "type": "image",
+    "section": "asset-award-certificate"
+  },
+  {
+    "id": "asset-residence-group",
+    "url": "images/v3-residence-group.webp",
+    "title": "聖誕共融-團體照",
+    "type": "image",
+    "section": "asset-residence-group"
+  },
+  {
+    "id": "asset-residence-exchange",
+    "url": "images/v3-residence-exchange.webp",
+    "title": "113-2國際交換生交流",
+    "type": "image",
+    "section": "asset-residence-exchange"
+  },
+  {
+    "id": "asset-community-team",
+    "url": "images/v3-community-team.webp",
+    "title": "所有帶班+主任",
+    "type": "image",
+    "section": "asset-community-team"
+  },
+  {
+    "id": "asset-community-training",
+    "url": "images/v3-community-training.webp",
+    "title": "培訓講師講課",
+    "type": "image",
+    "section": "asset-community-training"
+  },
+  {
+    "id": "terra-pdf",
+    "url": "resources/terra/presentation-public-excerpt.pdf",
+    "title": "Terra 招募簡報 · 公開節選版",
+    "type": "PDF",
+    "section": "resource-terra"
+  },
+  {
+    "id": "smart-retail-pdf",
+    "url": "resources/smart-retail/presentation.pdf",
+    "title": "智慧零售研究簡報 · PDF",
+    "type": "PDF",
+    "section": "resource-smart-retail"
+  },
+  {
+    "id": "bamboo-tea-pdf",
+    "url": "resources/bamboo-tea/presentation-public-excerpt.pdf",
+    "title": "竹峰茗茶成果簡報 · 公開節選版",
+    "type": "PDF",
+    "section": "resource-bamboo-tea"
+  },
+  {
+    "id": "happ-pdf",
+    "url": "resources/happ/presentation-public-excerpt.pdf",
+    "title": "Happ. 小樹屋課程報告 · 公開節選版",
+    "type": "PDF",
+    "section": "resource-happ"
+  },
+  {
+    "id": "railway-pdf",
+    "url": "resources/railway/presentation.pdf",
+    "title": "台鐵組織發展簡報 · PDF",
+    "type": "PDF",
+    "section": "resource-railway"
+  },
+  {
+    "id": "curation-pdf",
+    "url": "resources/curation/presentation.pdf",
+    "title": "酒酒不能自己策展提案 · PDF",
+    "type": "PDF",
+    "section": "resource-curation"
+  },
+  {
+    "id": "capstone-pdf",
+    "url": "resources/capstone/presentation-public-excerpt.pdf",
+    "title": "畢業專題研究簡報 · 公開節選版",
+    "type": "PDF",
+    "section": "resource-capstone"
+  },
+  {
+    "id": "japan-pdf",
+    "url": "resources/japan/presentation-public-excerpt.pdf",
+    "title": "日本旅遊與旅宿研究 · 公開節選版",
+    "type": "PDF",
+    "section": "resource-japan"
+  },
+  {
+    "id": "familymart-v3-certificate",
+    "url": "resources/familymart/v3-certificate.pdf",
+    "title": "查看從業人員合格證書",
+    "type": "PDF",
+    "section": "resource-familymart"
+  },
+  {
+    "id": "terra-v3-full",
+    "url": "resources/terra/v3-full.pdf",
+    "title": "開啟完整 Terra 招募 PDF",
+    "type": "PDF",
+    "section": "resource-terra"
+  },
+  {
+    "id": "smart-retail-v3-full",
+    "url": "resources/smart-retail/v3-full.pdf",
+    "title": "開啟智慧零售 PDF",
+    "type": "PDF",
+    "section": "resource-smart-retail"
+  },
+  {
+    "id": "japan-v3-full",
+    "url": "resources/japan/v3-full.pdf",
+    "title": "開啟完整成果 PDF",
+    "type": "PDF",
+    "section": "resource-japan"
+  },
+  {
+    "id": "capstone-v3-report",
+    "url": "resources/capstone/v3-report.pdf",
+    "title": "開啟正式報告 PDF",
+    "type": "PDF",
+    "section": "resource-capstone"
+  },
+  {
+    "id": "capstone-v3-slides",
+    "url": "resources/capstone/v3-slides.pdf",
+    "title": "開啟完整簡報",
+    "type": "PDF",
+    "section": "resource-capstone"
+  },
+  {
+    "id": "camps2024-v3-full",
+    "url": "resources/camps2024/v3-full.pdf",
+    "title": "開啟成果 PDF",
+    "type": "PDF",
+    "section": "resource-camps2024"
+  },
+  {
+    "id": "future2035-v3-certificate",
+    "url": "resources/future2035/v3-certificate.pdf",
+    "title": "查看獎狀 PDF",
+    "type": "PDF",
+    "section": "resource-future2035"
+  },
+  {
+    "id": "capstone-framework",
+    "url": "images/v3-framework.webp",
+    "title": "查看研究架構圖",
+    "type": "Image",
+    "section": "resource-capstone"
+  },
+  {
+    "id": "psychology-reflection31",
+    "url": "resources/psychology/reflection-public.pdf",
+    "title": "開啟課程心得 PDF（公開文字版）",
+    "type": "PDF",
+    "section": "resource-psychology"
+  },
+  {
+    "id": "labor-reflection31",
+    "url": "resources/labor/reflection-public.pdf",
+    "title": "開啟課程心得 PDF（公開文字版）",
+    "type": "PDF",
+    "section": "resource-labor"
+  },
+  {
+    "id": "psychology-reflection31",
+    "url": "resources/psychology/reflection-public.pdf",
+    "title": "工商心理學概論｜講座心得（公開文字版）",
+    "type": "pdf",
+    "section": "resource-psychology"
+  },
+  {
+    "id": "labor-reflection31",
+    "url": "resources/labor/reflection-public.pdf",
+    "title": "勞資關係與薪酬管理｜期末心得（公開文字版）",
+    "type": "pdf",
+    "section": "resource-labor"
+  },
+  {
+    "id": "camp-photo-0",
+    "url": "media/v4/camp-photo-0.jpg",
+    "title": "莿桐夏日學堂活動影像",
+    "type": "image",
+    "section": "camps2024"
+  },
+  {
+    "id": "camp-photo-1",
+    "url": "media/v4/camp-photo-1.jpg",
+    "title": "莿桐夏日學堂活動影像",
+    "type": "image",
+    "section": "camps2024"
+  },
+  {
+    "id": "camp-photo-2",
+    "url": "media/v4/camp-photo-2.jpg",
+    "title": "莿桐夏日學堂活動影像",
+    "type": "image",
+    "section": "camps2024"
+  },
+  {
+    "id": "academic-medal",
+    "url": "media/v4/academic-medal.pdf",
+    "title": "管理學院學生學術獎章",
+    "type": "pdf",
+    "section": "certificate-future2035",
+    "preview": "media/v4/academic-medal-preview.jpg"
+  },
+  {
+    "id": "camp-certificate",
+    "url": "media/v4/camp-certificate.pdf",
+    "title": "2024 莿桐夏日學堂服務狀",
+    "type": "pdf",
+    "section": "certificate-camps2024",
+    "preview": "media/v4/camp-certificate-preview.jpg"
+  },
+  {
+    "id": "hr-certificate-0",
+    "url": "media/v4/hr-certificate-0.png",
+    "title": "第十五屆人資新人研習團結業證書",
+    "type": "image",
+    "section": "certificate-hrfriday"
+  },
+  {
+    "id": "hr-certificate-1",
+    "url": "media/v4/hr-certificate-1.jpg",
+    "title": "勞動法規實務線上研習結業證書",
+    "type": "image",
+    "section": "certificate-hrfriday"
+  },
+  {
+    "id": "hr-certificate-2",
+    "url": "media/v4/hr-certificate-2.png",
+    "title": "NVC 非暴力溝通管理師研習證明",
+    "type": "image",
+    "section": "certificate-hrfriday"
+  },
+  {
+    "id": "hr-certificate-3",
+    "url": "media/v4/hr-certificate-3.png",
+    "title": "第九屆科技人資先修班結業證書",
+    "type": "image",
+    "section": "certificate-hrfriday"
+  },
+  {
+    "id": "hr-certificate-4",
+    "url": "media/v4/hr-certificate-4.jpg",
+    "title": "第八屆科技人資先修班結業證書",
+    "type": "image",
+    "section": "certificate-hrfriday"
+  },
+  {
+    "id": "familymart-certificate",
+    "url": "media/v4/familymart-certificate.pdf",
+    "title": "全家便利商店高階技能檢定合格證書",
+    "type": "pdf",
+    "section": "certificate-familymart",
+    "preview": "media/v4/familymart-certificate-preview.jpg"
+  },
+  {
+    "id": "capstone-presentation",
+    "url": "media/v4/capstone-presentation.pdf",
+    "title": "畢業專題成果簡報",
+    "type": "pdf",
+    "section": "resource-capstone",
+    "preview": "media/v4/capstone-presentation-preview.jpg"
+  },
+  {
+    "id": "japan-presentation",
+    "url": "media/v4/japan-presentation.pdf",
+    "title": "日本旅遊與住宿資料分析成果簡報",
+    "type": "pdf",
+    "section": "resource-japan",
+    "preview": "media/v4/japan-presentation-preview.jpg"
+  },
+  {
+    "id": "transcript-v4",
+    "section": "resource-academic",
+    "title": "Transcript｜歷年成績單",
+    "type": "pdf",
+    "url": "media/v4/transcript.pdf"
+  }
+]

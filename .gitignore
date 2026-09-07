@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+*.tsbuildinfo
+qa/
+.DS_Store
+Thumbs.db
+
+# Existing planning documents remain local
+EVIDENCE_INDEX.md
+V0_CONTENT_PLAN.md
