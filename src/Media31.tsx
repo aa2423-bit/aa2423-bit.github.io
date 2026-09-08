@@ -3,11 +3,11 @@ import {asset,forProject} from './content/resources';
 import media from './content/media31.json';
 export type Slide={id:string;url:string;title:string;type:string;external?:boolean;preview?:string;issuer?:string;year?:string;result?:string;project?:string};
 export const published=media as Slide[];
-export function Carousel({items,label,hero=false}:{items:Slide[];label:string;hero?:boolean}){
+export function Carousel({items,label,hero=false,arrows=false,controls=true}:{items:Slide[];label:string;hero?:boolean;arrows?:boolean;controls?:boolean}){
  const [index,setIndex]=useState(0);const [paused,setPaused]=useState(false);
  useEffect(()=>{if(paused||items.length<2||matchMedia('(prefers-reduced-motion: reduce)').matches)return;const timer=setInterval(()=>setIndex(i=>(i+1)%items.length),6000);return()=>clearInterval(timer)},[items.length,paused]);
  if(!items.length)return null;const s=items[index%items.length];
- return <div className={'media31 '+(hero?'hero31':'')} role="region" aria-roledescription="carousel" aria-label={label} onMouseEnter={()=>setPaused(true)} onMouseLeave={()=>setPaused(false)} onFocus={()=>setPaused(true)} onBlur={()=>setPaused(false)}><div className="media31-stage"><img src={asset(s.preview||s.url)} alt={label} loading={hero?'eager':'lazy'}/></div>{items.length>1&&<div className="dots31">{items.map((x,i)=><button key={x.id} aria-label={label+'：第 '+(i+1)+' 張'} aria-current={index%items.length===i?'true':undefined} onClick={()=>setIndex(i)}/>)}</div>}</div>
+ return <div className={'media31 '+(hero?'hero31':'')} role="region" aria-roledescription="carousel" aria-label={label} onMouseEnter={()=>setPaused(true)} onMouseLeave={()=>setPaused(false)} onFocus={()=>setPaused(true)} onBlur={()=>setPaused(false)}><div className="media31-stage"><img src={asset(s.preview||s.url)} alt={label} loading={hero?'eager':'lazy'}/></div>{controls&&items.length>1&&<div className={arrows?"media31-controls":undefined}>{arrows&&<button className="round31" aria-label={label+"：上一張"} onClick={()=>setIndex(i=>(i-1+items.length)%items.length)}>←</button>}<div className="dots31">{items.map((x,i)=><button key={x.id} aria-label={label+'：第 '+(i+1)+' 張'} aria-current={index%items.length===i?'true':undefined} onClick={()=>setIndex(i)}/>)}</div>{arrows&&<button className="round31" aria-label={label+"：下一張"} onClick={()=>setIndex(i=>(i+1)%items.length)}>→</button>}</div>}</div>
 }
 export function Rail({children,label}:{children:ReactNode;label:string}){
  const track=useRef<HTMLDivElement>(null);const [position,setPosition]=useState(0);
