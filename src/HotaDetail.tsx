@@ -102,8 +102,8 @@ const photos:Slide[]=[
 ];
 const links=[
   ['外籍人力任用方案','media/hota-v5/foreign-talent-public.pdf'],
-  ['識別證優化方案','media/hota-v5/id-card-public.pdf'],
-  ['好文分享','media/hota-v5/knowledge-sharing-public.pdf'],
+  ['識別證優化方案','media/hota-v5/id-card-complete.pdf'],
+  ['好文分享','media/hota-v5/knowledge-sharing.png'],
   ['和運租車 LinkedIn','https://www.linkedin.com/company/111831357/'],
 ];
 
