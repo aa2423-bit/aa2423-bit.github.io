@@ -167,14 +167,6 @@
     "external": true
   },
   {
-    "id": "v3-external-3",
-    "project": "leadership",
-    "label": "查看 Google Drive",
-    "type": "External",
-    "url": "https://drive.google.com/file/d/1-8N7UBszjqS5QOlfbQyETRdUCYh6PLrf/view",
-    "external": true
-  },
-  {
     "id": "v3-external-4",
     "project": "camps2026",
     "label": "觀看影片",
