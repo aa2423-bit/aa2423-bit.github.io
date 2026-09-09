@@ -32,3 +32,5 @@
 .article31-header.hrfriday-title{container-type:inline-size}.article31-header.hrfriday-title h1{font-size:min(38px,4.1cqw);white-space:nowrap;letter-spacing:0;line-height:1.4}
 
 .award-links{display:flex;gap:8px;align-items:stretch;margin-top:24px;container-type:inline-size}.award-links .cta31{margin:0;min-width:0;padding:10px 12px;white-space:nowrap;font-size:min(14px,2.15cqw)}
+
+.familymart-evidence .certificates4{grid-template-columns:1fr}.familymart-evidence .certificates4 img{display:block;width:100%;max-width:600px;height:auto;margin:0 auto}
