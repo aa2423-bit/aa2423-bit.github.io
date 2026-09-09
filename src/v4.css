@@ -27,3 +27,8 @@
 #experience .v3-logo{display:flex;align-items:center;width:76px;height:58px;margin:0 0 14px;overflow:hidden}#experience .v3-logo img{display:block;width:100%;height:100%;max-height:58px;object-fit:contain!important;aspect-ratio:auto!important}#experience .v3-job>div:first-child{min-width:0}#experience .v3-job h3{margin:0 0 7px}#leadership article{container-type:inline-size}#leadership .v3-grid.three .camp-title{font-size:clamp(12px,5.5cqw,20px);white-space:nowrap;line-height:1.5}
 /* Align credential rows and restore the standard experience alignment. */
 #experience .hr-featured{border-left:0;padding-left:0}#honors .rail31-track>article{display:grid;grid-template-rows:220px 24px 20px 20px 46px;gap:8px;align-content:start;container-type:inline-size}#honors .rail31-track img{height:220px;margin:0}#honors .rail31-track h3{font-family:inherit;font-size:clamp(10px,3.65cqw,14px);line-height:24px;white-space:nowrap;margin:0;letter-spacing:-.025em}#honors .rail31-track p{font-size:11px;line-height:20px;white-space:nowrap;margin:0}#honors .rail31-track .cta31{font-size:clamp(9px,3.35cqw,12px);white-space:nowrap;margin-top:0;padding:9px 12px;align-self:center;min-height:40px}
+
+/* Fit the full HRFriday title on one line at each viewport width. */
+.article31-header.hrfriday-title{container-type:inline-size}.article31-header.hrfriday-title h1{font-size:min(38px,4.1cqw);white-space:nowrap;letter-spacing:0;line-height:1.4}
+
+.award-links{display:flex;gap:8px;align-items:stretch;margin-top:24px;container-type:inline-size}.award-links .cta31{margin:0;min-width:0;padding:10px 12px;white-space:nowrap;font-size:min(14px,2.15cqw)}
