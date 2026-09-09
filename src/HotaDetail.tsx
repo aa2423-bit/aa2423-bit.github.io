@@ -7,97 +7,97 @@ const photos:Slide[]=[
     "id": "opening",
     "title": "HAP實習生始業式首圖2",
     "type": "image",
-    "url": "media/hota-v5/opening.jpg"
+    "url": "media/hota-v5/opening.webp"
   },
   {
     "id": "visit",
     "title": "新五股參訪1",
     "type": "image",
-    "url": "media/hota-v5/visit.jpg"
+    "url": "media/hota-v5/visit.webp"
   },
   {
     "id": "award",
     "title": "HAP計畫成果第二名",
     "type": "image",
-    "url": "media/hota-v5/award.jpg"
+    "url": "media/hota-v5/award.webp"
   },
   {
     "id": "unboxing",
     "title": "HAP開箱計畫首獎",
     "type": "image",
-    "url": "media/hota-v5/unboxing.jpg"
+    "url": "media/hota-v5/unboxing.webp"
   },
   {
     "id": "photo-05",
     "title": "4",
     "type": "image",
-    "url": "media/hota-v5/photo-05.jpg"
+    "url": "media/hota-v5/photo-05.webp"
   },
   {
     "id": "photo-06",
     "title": "HAP 與總經理合照",
     "type": "image",
-    "url": "media/hota-v5/photo-06.jpg"
+    "url": "media/hota-v5/photo-06.webp"
   },
   {
     "id": "photo-07",
     "title": "HAP計畫首圖",
     "type": "image",
-    "url": "media/hota-v5/photo-07.jpg"
+    "url": "media/hota-v5/photo-07.webp"
   },
   {
     "id": "photo-08",
     "title": "LINE_ALBUM_202673和運HAP實習生始業式_260908_1",
     "type": "image",
-    "url": "media/hota-v5/photo-08.jpg"
+    "url": "media/hota-v5/photo-08.webp"
   },
   {
     "id": "photo-09",
     "title": "_A3教育訓練_260908_1",
     "type": "image",
-    "url": "media/hota-v5/photo-09.jpg"
+    "url": "media/hota-v5/photo-09.webp"
   },
   {
     "id": "photo-10",
     "title": "和運HAP實習生PDCA_2(1)",
     "type": "image",
-    "url": "media/hota-v5/photo-10.jpg"
+    "url": "media/hota-v5/photo-10.webp"
   },
   {
     "id": "photo-11",
     "title": "和運HAP實習生PDCA_260908_1",
     "type": "image",
-    "url": "media/hota-v5/photo-11.jpg"
+    "url": "media/hota-v5/photo-11.webp"
   },
   {
     "id": "photo-12",
     "title": "新五股參訪",
     "type": "image",
-    "url": "media/hota-v5/photo-12.jpg"
+    "url": "media/hota-v5/photo-12.webp"
   },
   {
     "id": "photo-13",
     "title": "職涯分享交流",
     "type": "image",
-    "url": "media/hota-v5/photo-13.jpg"
+    "url": "media/hota-v5/photo-13.webp"
   },
   {
     "id": "photo-14",
     "title": "職涯分享交流_A3教育訓練",
     "type": "image",
-    "url": "media/hota-v5/photo-14.jpg"
+    "url": "media/hota-v5/photo-14.webp"
   },
   {
     "id": "photo-15",
     "title": "職涯分享交流_A3教育訓練_2",
     "type": "image",
-    "url": "media/hota-v5/photo-15.jpg"
+    "url": "media/hota-v5/photo-15.webp"
   },
   {
     "id": "photo-16",
     "title": "職涯分享交流_A3教育訓練_3",
     "type": "image",
-    "url": "media/hota-v5/photo-16.jpg"
+    "url": "media/hota-v5/photo-16.webp"
   }
 ];
 const links=[
