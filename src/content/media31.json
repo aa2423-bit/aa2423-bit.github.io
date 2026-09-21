@@ -44,6 +44,18 @@
     "result": "第 10 名／68 人｜14.71%"
   },
   {
+    "id": "6eca9bee687f",
+    "url": "media/6eca9bee687f.pdf",
+    "title": "管理學院學生學術獎章",
+    "type": "pdf",
+    "section": "honors",
+    "issuer": "輔仁大學管理學院",
+    "year": "2024",
+    "result": "學生學術獎章",
+    "project": "/awards/future2035",
+    "preview": "media/6eca9bee687f-preview.jpg"
+  },
+  {
     "id": "toeic-740",
     "url": "media/toeic-740.jpg",
     "title": "TOEIC 英語能力測驗成績證明",
@@ -155,18 +167,6 @@
     "result": "服務 40 小時",
     "project": "/activities/camps2024",
     "preview": "media/4e1819b6f3d4-preview.jpg"
-  },
-  {
-    "id": "6eca9bee687f",
-    "url": "media/6eca9bee687f.pdf",
-    "title": "管理學院學生學術獎章",
-    "type": "pdf",
-    "section": "honors",
-    "issuer": "輔仁大學管理學院",
-    "year": "2024",
-    "result": "學生學術獎章",
-    "project": "/awards/future2035",
-    "preview": "media/6eca9bee687f-preview.jpg"
   },
   {
     "id": "b5067cb96456",
