@@ -241,12 +241,5 @@
     "type": "Website",
     "url": "https://lnkd.in/p/gCm3KRXR",
     "external": true
-  },
-  {
-    "id": "transcript-v4",
-    "project": "academic",
-    "label": "Transcript｜歷年成績單",
-    "type": "PDF",
-    "url": "media/v4/transcript.pdf"
   }
 ]

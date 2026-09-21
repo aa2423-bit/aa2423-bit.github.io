@@ -1,38 +1,5 @@
 [
   {
-    "id": "corporate-finance-taxation-program",
-    "url": "media/credentials/corporate-finance-taxation-program.pdf",
-    "title": "企業財稅管理學分學程修畢證明書",
-    "type": "pdf",
-    "section": "honors",
-    "preview": "media/credentials/corporate-finance-taxation-program-preview.jpg",
-    "issuer": "輔仁大學",
-    "year": "2026",
-    "result": "企業財稅管理學分學程"
-  },
-  {
-    "id": "transcript-zh",
-    "url": "media/credentials/transcript-zh.pdf",
-    "title": "中文歷年成績單",
-    "type": "pdf",
-    "section": "honors",
-    "preview": "media/credentials/transcript-zh-preview.jpg",
-    "issuer": "輔仁大學",
-    "year": "2026",
-    "result": "累計 179 學分｜GPA 3.76"
-  },
-  {
-    "id": "transcript-en",
-    "url": "media/credentials/transcript-en.pdf",
-    "title": "英文歷年成績單",
-    "type": "pdf",
-    "section": "honors",
-    "preview": "media/credentials/transcript-en-preview.jpg",
-    "issuer": "Fu Jen Catholic University",
-    "year": "2026",
-    "result": "179 credits｜Cumulative GPA 3.76"
-  },
-  {
     "id": "graduate-admission-ranking",
     "url": "media/credentials/graduate-admission-ranking.pdf",
     "title": "碩士班甄試成績證明書",
@@ -54,16 +21,6 @@
     "result": "學生學術獎章",
     "project": "/awards/future2035",
     "preview": "media/6eca9bee687f-preview.jpg"
-  },
-  {
-    "id": "toeic-740",
-    "url": "media/toeic-740.jpg",
-    "title": "TOEIC 英語能力測驗成績證明",
-    "type": "image",
-    "section": "honors",
-    "issuer": "ETS 臺灣區總代理 忠欣股份有限公司",
-    "year": "2024",
-    "result": "總分 740｜聽力 370・閱讀 370"
   },
   {
     "id": "future-minister",
@@ -577,12 +534,5 @@
     "type": "pdf",
     "section": "resource-japan",
     "preview": "media/v4/japan-presentation-preview.jpg"
-  },
-  {
-    "id": "transcript-v4",
-    "section": "resource-academic",
-    "title": "Transcript｜歷年成績單",
-    "type": "pdf",
-    "url": "media/v4/transcript.pdf"
   }
 ]
