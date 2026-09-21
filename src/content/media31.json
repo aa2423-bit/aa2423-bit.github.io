@@ -1,5 +1,49 @@
 [
   {
+    "id": "corporate-finance-taxation-program",
+    "url": "media/credentials/corporate-finance-taxation-program.pdf",
+    "title": "企業財稅管理學分學程修畢證明書",
+    "type": "pdf",
+    "section": "honors",
+    "preview": "media/credentials/corporate-finance-taxation-program-preview.jpg",
+    "issuer": "輔仁大學",
+    "year": "2026",
+    "result": "企業財稅管理學分學程"
+  },
+  {
+    "id": "transcript-zh",
+    "url": "media/credentials/transcript-zh.pdf",
+    "title": "中文歷年成績單",
+    "type": "pdf",
+    "section": "honors",
+    "preview": "media/credentials/transcript-zh-preview.jpg",
+    "issuer": "輔仁大學",
+    "year": "2026",
+    "result": "累計 179 學分｜GPA 3.76"
+  },
+  {
+    "id": "transcript-en",
+    "url": "media/credentials/transcript-en.pdf",
+    "title": "英文歷年成績單",
+    "type": "pdf",
+    "section": "honors",
+    "preview": "media/credentials/transcript-en-preview.jpg",
+    "issuer": "Fu Jen Catholic University",
+    "year": "2026",
+    "result": "179 credits｜Cumulative GPA 3.76"
+  },
+  {
+    "id": "graduate-admission-ranking",
+    "url": "media/credentials/graduate-admission-ranking.pdf",
+    "title": "碩士班甄試成績證明書",
+    "type": "pdf",
+    "section": "honors",
+    "preview": "media/credentials/graduate-admission-ranking-preview.jpg",
+    "issuer": "輔仁大學",
+    "year": "2026",
+    "result": "第 10 名／68 人｜14.71%"
+  },
+  {
     "id": "toeic-740",
     "url": "media/toeic-740.jpg",
     "title": "TOEIC 英語能力測驗成績證明",
